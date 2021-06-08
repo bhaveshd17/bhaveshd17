@@ -1,9 +1,9 @@
 ## Hello 👋
 <a href="https://twitter.com/BhaveshDhake4">
-  <img align="left" alt="Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="Twitter" width="22px" src="https://github.com/bhaveshd17/bhaveshd17/blob/main/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/bhaveshd17">
-  <img align="left" alt="LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="LinkedIN" width="22px" src="https://github.com/bhaveshd17/bhaveshd17/blob/main/linkedin.svg" />
 </a>
 <a href="https://www.instagram.com/bhaveshd_17/">
   <img align="left" alt="Spotify" width="22px" src="https://github.com/bhaveshd17/bhaveshd17/blob/main/instagram.svg" />
