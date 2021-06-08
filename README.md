@@ -15,7 +15,7 @@
 
 
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://github.com/bhaveshd17/bhaveshd17/blob/main/banner.png" width="500" height="320" />
 
 **Languages and Tools:**  
 
