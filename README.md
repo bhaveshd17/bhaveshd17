@@ -12,7 +12,7 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=bhaveshd17.bhaveshd17)
 
 <br />
-<img alt="Bhavesh" src="https://github.com/bhaveshd17/bhaveshd17/blob/main/banner.png" />
+<img alt="Bhavesh" src="https://github.com/bhaveshd17/bhaveshd17/blob/main/banner.png" width="100%" />
 
 
   
