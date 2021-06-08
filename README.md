@@ -30,17 +30,6 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code> -->
 
-📊 **This Week I Spent My Time On:**
-<!--START_SECTION:waka-->
-```text
-JSX          16 hrs 13 mins  ███████████████████▓░░░░░   79.30 % 
-JavaScript   3 hrs 8 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
-HTML         35 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
-CSS          15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
-JSON         13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
-```
-<!--END_SECTION:waka-->
-
 
 📈 My GitHub Stats
 
