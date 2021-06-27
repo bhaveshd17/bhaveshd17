@@ -12,9 +12,6 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=bhaveshd17.bhaveshd17)
 
 <br />
-<img alt="Bhavesh" src="https://github.githubassets.com/images/modules/site/social-cards/github-social.png" width="100%" height="25% />
-
-
 
   
 **Languages and Tools:**  
