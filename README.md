@@ -11,7 +11,7 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=bhaveshd17.bhaveshd17)
 
-<br />
+<br/>
 
   
 **Languages and Tools:**  
