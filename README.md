@@ -32,7 +32,7 @@
 📈 My GitHub Stats
 
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=bhaveshd17&show_icons=true&theme=gotham" alt="bhaveshd17" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=bhaveshd17&show_icons=true&theme=gotham" alt="bhaveshd17 stat" />
 
 
 
