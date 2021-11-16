@@ -40,7 +40,7 @@
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=bhaveshd17&show_icons=true&theme=gotham" alt="bhaveshd17" /></p>
   
- <p align="center"><a href="https://github.com/bhaveshd17/github-readme-streak-stats">
+ <p align="center"><a href="https://github.com/SubhamRaoniar28/github-readme-streak-stats">
  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Bhavesh Dahke's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=bhaveshd17&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
 </a></p>
 
